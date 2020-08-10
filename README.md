@@ -1,6 +1,8 @@
 # flutter_game_demo
 
-A new Flutter project.
+A Game with Flutter.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cQzp1Q2Xglk/0.jpg)](https://youtu.be/cQzp1Q2Xglk)
 
 ## Getting Started
 
